@@ -1,0 +1,19 @@
+{
+  "name": "targetproof",
+  "version": "1.0.0",
+  "description": "Original Website for TargetProof",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Email",
+    "Security",
+    "Identity",
+    "Proofing",
+    "Verification",
+    "Credentials"
+  ],
+  "author": "TargetProof, LLC",
+  "license": "ISC"
+}
